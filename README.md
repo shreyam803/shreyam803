@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/544967/screenshots/3798185/deforge_young.gif">
 
 <h1 align="center">Hi There 👋, I'm Shreya Maheshwari</h1>
-<h3 align="center">I’m Backend Developer.I am an amiable person with obligatory technical skills.A learner who wants to sharpen the skills in every field of technology from scratch to top.</h3>
+<h3 align="center">I’m Backend Developer from India</h3>
 
 - 🔭 I’m currently working on [Chat App](https://github.com/shreyam803/chat-app)
 
