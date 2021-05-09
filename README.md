@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Node Projects.**
 
-- 💬 Ask me about **NodeJS, MongoDB, C++, HTML, CSS**
+- 💬 Ask me about **NodeJS, MongoDB, C++, C, HTML, CSS**
 
 - 📫 How to reach me **shreyam803@gmail.com**
 
