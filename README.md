@@ -3,7 +3,7 @@
 <h1 align="center">Hi There 👋, I'm Shreya Maheshwari</h1>
 <h3 align="center">I’m Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [Shopping App](https://github.com/shreyam803/chat-app)
+- 🔭 I’m currently working on [Shopping App](https://github.com/shreyam803/shopping-app)
 
 - 🌱 I’m currently learning **NodeJS and MongoDB.**
 
